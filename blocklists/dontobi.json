@@ -1,0 +1,9 @@
+{
+  "name": "dontobi - All in One",
+  "website": "https://github.com/dontobi/AdGuardHome-Lists",
+  "description": "This blacklist is composed of several blacklists.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/dontobi/AdGuardHome-Lists/lists/blacklist.txt",
+    "format": "abp"
+  }
+}
