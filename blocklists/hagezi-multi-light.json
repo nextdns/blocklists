@@ -3,7 +3,7 @@
   "website": "https://github.com/hagezi/dns-blocklists",
   "description": "Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.",
   "source": {
-    "url": "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/light.txt",
+    "url": "https://hagezi.gitlab.io/mirror/dns-blocklists/wildcard/light.txt",
     "format": "domains"
   }
 }
