@@ -1,0 +1,9 @@
+{
+  "name": "OISD nsfw",
+  "website": "https://oisd.nl",
+  "description": "An extension to basic OISD blocklist. Blocks Shock / Porn / Adult",
+  "source": {
+    "url": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_nsfw.txt",
+    "format": "domains"
+  }
+}
