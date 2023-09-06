@@ -1,0 +1,9 @@
+{
+  "name": "HaGeZi - Threat Intelligence Feeds",
+  "website": "https://github.com/hagezi/dns-blocklists",
+  "description": "A blocklist for blocking malware, cryptojacking, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks, and host command-and-control servers.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.txt",
+    "format": "domains"
+  }
+}
