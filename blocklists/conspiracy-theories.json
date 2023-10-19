@@ -1,0 +1,9 @@
+{
+  "name": "Conspiracy Theories",
+  "website": "https://github.com/dnsblocklistnet/blocklists",
+  "description": "A DNS blocklist for websites that peddle conspiracy theories.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/dnsblocklistnet/blocklists/master/conspiracy.list",
+    "format": "hosts"
+  }
+}
