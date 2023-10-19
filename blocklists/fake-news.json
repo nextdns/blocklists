@@ -1,0 +1,9 @@
+{
+  "name": "Fake news",
+  "website": "https://github.com/marktron/fakenews",
+  "description": "Blocks sites that willfully and regularly spread clickbait, hoaxes, propaganda and disinformation.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/marktron/fakenews/master/fakenews",
+    "format": "hosts"
+  }
+}
