@@ -1,0 +1,9 @@
+{
+  "name": "Thailand Telecommunications Sector CERT (TTC-CERT) Recommended Blocklist",
+  "website": "https://github.com/ttc-cert/TTC-CERT_blocklist_recommended",
+  "description": "Blocklist from Thailand Telecommunications Sector CERT (TTC-CERT), compiled from publicly published threat lists, and TTC-CERT's own research.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/ttc-cert/TTC-CERT_blocklist_recommended/master/domain_blocklist_recommended.txt",
+    "format": "domains"
+  }
+}
