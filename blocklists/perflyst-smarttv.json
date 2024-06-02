@@ -6,4 +6,18 @@
     "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt",
     "format": "domains"
   }
+  "exclusions": [
+    "acr0.samsungcloudsolution.com",
+    "cdn.samsungcloudsolution.com",
+    "time.samsungcloudsolution.com",
+    "configprd.samsungcloudsolution.net",
+    "lcprd1.samsungcloudsolution.net",
+    "otnprd10.samsungcloudsolution.net",
+    "otnprd11.samsungcloudsolution.net",
+    "otnprd8.samsungcloudsolution.net",
+    "otnprd9.samsungcloudsolution.net",
+    "gpm.samsungqbe.com",
+    "osb-ussvc.samsungqbe.com",
+    "infolink.pavv.co.kr"
+  ]
 }
