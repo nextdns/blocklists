@@ -6,4 +6,7 @@
     "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt",
     "format": "hosts"
   }
+  "exclusions": [
+    "protondb.com"
+  ]
 }
