@@ -1,9 +1,0 @@
-{
-  "name": "AWAvenue Ads Rule",
-  "website": "https://awavenue.top/",
-  "description": "Uses Adblock syntax to fight against various advertising SDKs in Android apps on the network level, preventing them from loading.",
-  "source": {
-    "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
-    "format": "abp"
-  }
-}
