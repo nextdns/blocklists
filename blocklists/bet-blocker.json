@@ -1,0 +1,9 @@
+{
+  "name": "BetBlocker",
+  "website": "https://github.com/bet-blocker",
+  "description": "BetBlocker is an open-source blocklist containing domains of online betting sites, helping to create a safer digital environment and mitigate the risks associated with gambling.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/bet-blocker/bet-blocker/main/blocklist.txt",
+    "format": "domains"
+  }
+}
