@@ -1,0 +1,9 @@
+{
+  "name": "Cedws Apple Telemetry",
+  "website": "https://github.com/cedws/apple-telemetry",
+  "description": "Blocklist for telemetry domains which Apple devices frequently contact.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/cedws/apple-telemetry/refs/heads/master/blacklist",
+    "format": "domains"
+  }
+}
