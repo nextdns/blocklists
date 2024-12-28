@@ -1,0 +1,9 @@
+{
+  "name": "Axel Springer Blocklist",
+  "website": "https://github.com/autinerd/anti-axelspringer-hosts",
+  "description": "This file blocks all connections to sites which are from Axel Springer Verlag or have a connection with them.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts",
+    "format": "hosts"
+  }
+}
