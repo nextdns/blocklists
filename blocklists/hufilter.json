@@ -3,7 +3,7 @@
   "website": "https://github.com/hufilter/hufilter",
   "description": "Block hungarian ads.",
   "source": {
-    "url": "https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter-dns.txt",
+    "url": "https://raw.githubusercontent.com/hufilter/hufilter/refs/heads/gh-pages/hufilter-dns.txt",
     "format": "domains"
   }
 }
