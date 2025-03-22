@@ -1,0 +1,9 @@
+{
+  "name": "EasyList Poland",
+  "website": "https://github.com/easylistpolish/easylistpolish",
+  "description": "EasyList Polish is the filter list that removes most adverts from polish webpages, including unwanted frames, images and objects.",
+  "source": {
+    "url": "https://easylist-downloads.adblockplus.org/easylistpolish.txt",
+    "format": "abp"
+  }
+}
