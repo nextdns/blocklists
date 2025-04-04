@@ -1,0 +1,10 @@
+{
+  {
+  "name": "HaGeZi - NSFW",
+  "website": "https://github.com/hagezi/dns-blocklists",
+  "description": "NSFW - Protects against adult content!",
+  "source": {
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nsfw-onlydomains.txt",
+    "format": "domains"
+  }
+}
