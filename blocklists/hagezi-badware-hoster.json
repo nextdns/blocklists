@@ -1,0 +1,10 @@
+{
+  "name": "HaGeZi - Badware Hoster",
+  "website": "https://github.com/hagezi/dns-blocklists",
+  "description": "Blocks known hosters that also host badware via user content to prevent the use of these hosters for malicious purposes",
+  "source": {
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/hoster-onlydomains.txt",
+    "format": "domains"
+  }
+}
+
