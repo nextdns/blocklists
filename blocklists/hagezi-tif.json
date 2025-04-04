@@ -1,7 +1,7 @@
 {
   "name": "HaGeZi - Threat Intelligence Feeds",
   "website": "https://github.com/hagezi/dns-blocklists",
-  "description": "Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.",
+  "description": "Threat Intelligence Feeds - Increases security significantly!",
   "source": {
     "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt"
     "format": "domains"
