@@ -1,0 +1,9 @@
+{
+  "name": "HaGeZi - Gambling",
+  "website": "https://github.com/hagezi/dns-blocklists",
+  "description": "Blocks gambling content.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt",
+    "format": "domains"
+  }
+}
