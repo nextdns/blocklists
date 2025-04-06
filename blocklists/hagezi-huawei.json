@@ -1,0 +1,9 @@
+{
+  "name": "HaGeZi - Huawei Tracker",
+  "website": "https://github.com/hagezi/dns-blocklists",
+  "description": "Blocks Huawei native broadband tracker that track your activity.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.huawei.txt",
+    "format": "domains"
+  }
+}
