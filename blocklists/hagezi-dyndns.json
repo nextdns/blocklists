@@ -1,0 +1,9 @@
+{
+  "name": "HaGeZi - DynDNS",
+  "website": "https://github.com/hagezi/dns-blocklists",
+  "description": "Blocks dynamic DNS services to protect against malicious use in phishing campaigns and others.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns-onlydomains.txt",
+    "format": "domains"
+  }
+}
