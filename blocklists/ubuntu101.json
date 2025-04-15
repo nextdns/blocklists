@@ -1,7 +1,7 @@
 {
   "name": "Ultimate Hosts Blacklist",
   "website": "https://hosts.ubuntu101.co.za/",
-  "description": "Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.",
+  "description": "The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web sites and protect your devices and pc from being infected with Malware or Ransomware.",
   "source": {
     "url": "https://hosts.ubuntu101.co.za/hosts",
     "format": "hosts"
