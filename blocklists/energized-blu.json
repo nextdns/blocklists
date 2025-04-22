@@ -3,7 +3,7 @@
   "website": "https://github.com/EnergizedProtection/block",
   "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. A Mid Ranger Flagship Protection Pack.",
   "source": {
-    "url": "https://block.energized.pro/blu/formats/domains.txt",
+    "url": "https://energized.pro/blu/domains.txt",
     "format": "domains"
   }
 }
