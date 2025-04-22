@@ -1,0 +1,9 @@
+{
+  "name": "Energized antipopads-Re Protection",
+  "website": "https://github.com/EnergizedProtection/block",
+  "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. A Lightweight Mid Ranger Protection Pack.",
+  "source": {
+    "url": "https://energized.pro/antipopads-re/domains.txt",
+    "format": "domains"
+  }
+}
