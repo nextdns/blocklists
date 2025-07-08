@@ -1,9 +1,9 @@
 {
   "name": "1Hosts (Lite)",
-  "website": "https://o0.pages.dev",
+  "website": "https://github.com/badmojr/1Hosts",
   "description": "Safeguard your device(s) against pesky ads, trackers, and malware.",
   "source": {
-    "url": "https://o0.pages.dev/Lite/domains.wildcards",
+    "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards",
     "format": "domains"
   }
 }
