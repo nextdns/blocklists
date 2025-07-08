@@ -1,9 +1,9 @@
 {
   "name": "Energized Ultimate",
-  "website": "https://github.com/EnergizedProtection/block",
-  "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. Flagship Protection Pack from Energized Protection.",
+  "website": "https://energized.pro",
+  "description": "Comprehensive, full protection.",
   "source": {
-    "url": "https://block.energized.pro/ultimate/formats/domains.txt",
+    "url": "https://energized.pro/ultimate/domains.txt",
     "format": "domains"
   }
 }

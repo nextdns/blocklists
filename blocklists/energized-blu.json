@@ -1,9 +1,9 @@
 {
   "name": "Energized Blu",
-  "website": "https://github.com/EnergizedProtection/block",
-  "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. A Mid Ranger Flagship Protection Pack.",
+  "website": "https://energized.pro",
+  "description": "Balanced, extended protection.",
   "source": {
-    "url": "https://block.energized.pro/blu/formats/domains.txt",
+    "url": "https://energized.pro/blu/domains.txt",
     "format": "domains"
   }
 }
