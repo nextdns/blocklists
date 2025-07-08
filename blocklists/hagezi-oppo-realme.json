@@ -1,0 +1,9 @@
+{
+  "name": "HaGeZi - OPPO & Realme Tracker",
+  "website": "https://github.com/hagezi/dns-blocklists",
+  "description": "Blocks OPPO & Realme native broadband tracker that track your activity.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.oppo-realme.txt",
+    "format": "domains"
+  }
+}

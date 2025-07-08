@@ -1,0 +1,9 @@
+{
+  "name": "HaGeZi - LG webOS Tracker",
+  "website": "https://github.com/hagezi/dns-blocklists",
+  "description": "Blocks LG webOS native broadband tracker that track your activity.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.lgwebos.txt",
+    "format": "domains"
+  }
+}

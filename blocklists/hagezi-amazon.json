@@ -1,0 +1,9 @@
+{
+  "name": "HaGeZi - Amazon Tracker",
+  "website": "https://github.com/hagezi/dns-blocklists",
+  "description": "Blocks Amazon native broadband tracker that track your activity.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.amazon.txt",
+    "format": "domains"
+  }
+}
