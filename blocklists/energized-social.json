@@ -1,9 +1,9 @@
 {
-  "name": "Energized Basic",
+  "name": "Energized Social",
   "website": "https://github.com/EnergizedProtection/block",
   "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. An All-Rounder Balanced Protection Pack.",
   "source": {
-    "url": "https://block.energized.pro/basic/formats/domains.txt",
+    "url": "https://energized.pro/social/domains.txt",
     "format": "domains"
   }
 }
