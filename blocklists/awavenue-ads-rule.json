@@ -1,0 +1,9 @@
+{
+  "name": "AWAvenue Ads Rule",
+  "website": "https://github.com/TG-Twilight/AWAvenue-Ads-Rule",
+  "description": "开源社区中最优秀的广告过滤器列表之一，实现了最优秀的广告拦截、隐私保护和流量节省。",
+  "source": {
+    "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
+    "format": "abp"
+  }
+}
