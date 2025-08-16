@@ -1,0 +1,9 @@
+{
+  "name": "AdGuard Spanish/Portuguese filter",
+  "website": "https://kb.adguard.com/en/general/adguard-ad-filters#filters",
+  "description": "Removes ads from websites in Spanish and Portuguese.",
+  "source": {
+    "url": "https://filters.adtidy.org/extension/chromium/filters/9.txt",
+    "format": "abp"
+  }
+}
