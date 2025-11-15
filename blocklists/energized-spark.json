@@ -3,7 +3,6 @@
   "website": "https://energized.pro",
   "description": "Lightweight, essential protection.",
   "source": {
-    "url": "https://energized.pro/spark/domains.txt",
-    "format": "domains"
+    "url": "https://energized.pro/spark/domains.txt"
   }
 }

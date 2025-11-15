@@ -3,7 +3,6 @@
   "website": "https://github.com/notracking/hosts-blocklists",
   "description": "Automatically updated, moderated and optimized list for blocking ads, trackers and other online garbage.",
   "source": {
-    "url": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt",
-    "format": "domains"
+    "url": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt"
   }
 }

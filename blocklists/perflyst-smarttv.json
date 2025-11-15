@@ -3,7 +3,6 @@
   "website": "https://github.com/Perflyst/PiHoleBlocklist",
   "description": "Block smart-TVs sending metadata back home, sometimes with the added benefit of blocking interface ads for apps and movie services.",
   "source": {
-    "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt",
-    "format": "domains"
+    "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt"
   }
 }

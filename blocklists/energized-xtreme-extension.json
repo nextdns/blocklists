@@ -3,7 +3,6 @@
   "website": "https://energized.pro",
   "description": "Enhanced privacy with aggressive filtering.",
   "source": {
-    "url": "https://energized.pro/extreme/domains.txt",
-    "format": "domains"
+    "url": "https://energized.pro/extreme/domains.txt"
   }
 }

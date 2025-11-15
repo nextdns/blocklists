@@ -3,7 +3,6 @@
   "website": "https://hblock.molinero.dev",
   "description": "Improve your security and privacy by blocking ads, tracking and malware domains.",
   "source": {
-    "url": "https://hblock.molinero.dev/hosts_domains.txt",
-    "format": "domains"
+    "url": "https://hblock.molinero.dev/hosts_domains.txt"
   }
 }

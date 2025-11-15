@@ -3,7 +3,6 @@
   "website": "https://energized.pro",
   "description": "Regional filtering.",
   "source": {
-    "url": "https://energized.pro/regional/domains.txt",
-    "format": "domains"
+    "url": "https://energized.pro/regional/domains.txt"
   }
 }
