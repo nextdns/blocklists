@@ -1,0 +1,9 @@
+{
+  "name": "MLM/Pyramid Schemes List",
+  "website": "https://github.com/dnsblocklistnet/blocklists",
+  "description": "A DNS blocklist for multi-level marketing websites.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/dnsblocklistnet/blocklists/master/multilevelmarketing.list",
+    "format": "hosts"
+  }
+}
