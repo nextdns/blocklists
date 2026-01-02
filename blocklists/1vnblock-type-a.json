@@ -1,0 +1,9 @@
+{
+  "name": "1vnblock (Type A)",
+  "website": "https://github.com/ncatuong/1vnblock",
+  "description": "Safeguard your device(s) against pesky ads, trackers, and malware. | Blocking mobile application security APIs and bank web/API like MBBank or ZaloPay.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/ncatuong/1vnblock/refs/heads/master/1vnblock/domains.wildcards",
+    "format": "domains"
+  }
+}
