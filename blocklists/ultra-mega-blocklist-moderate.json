@@ -1,0 +1,8 @@
+{
+  "name": "Ultra Mega Blocklist (Moderate)",
+  "website": "https://github.com/kfoqpla/ultra-mega-blocklist",
+  "description": "Optimized version of Ultra Mega BlockLists",
+  "source": {
+    "url": "https://raw.githubusercontent.com/kfoqpla/ultra-mega-blocklist/main/moderate/domains"
+  }
+}
