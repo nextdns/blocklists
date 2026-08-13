@@ -1,8 +1,8 @@
 {
   "name": "HaGeZi - Multi PRO++",
-  "website": "https://github.com/hagezi/dns-blocklists",
+  "website": "https://hagezi-mirror.dnsbunker.org",
   "description": "Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.",
   "source": {
-    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus.txt"
+    "url": "https://hagezi-mirror.dnsbunker.org/wildcard/pro.plus.txt"
   }
 }
