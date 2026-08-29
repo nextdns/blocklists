@@ -1,0 +1,8 @@
+{
+  "name": "LowTechFilter Newly Registered Domains (1 day)",
+  "website": "https://github.com/FutaGuard/LowTechFilter",
+  "description": "A DNS blocklist of newly registered domains from the previous day, curated by LowTechFilter.",
+  "source": {
+    "url": "https://filter.futa.gg/nrd/past-01day_domains.txt"
+  }
+}
