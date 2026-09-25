@@ -22,11 +22,13 @@
   ],
   "exclusions": [
     "*.cloud.answerhub.com",
+    "*.dxp.optimizely.com",
     "*.gov",
     "*.inc.com",
     "*.lenta.ru",
     "*.smartsheet.com",
     "ae01.alicdn.com",
+    "api-2-0.spot.im",
     "app.link",
     "browser.pipe.aria.microsoft.com",
     "concierge.analytics.console.aws.a2z.com",
