@@ -1,0 +1,9 @@
+{
+  "name": "Deceptive Data Companies",
+  "website": "https://github.com/FrustratedN00b/deceptive-data-companies",
+  "description": "Blocks companies whose business model is built on misleading people to collect their data: consumer VPNs with documented no-logs failures or deceptive marketing, their corporate parent (Kape Technologies), and data-harvesting antivirus vendors.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/FrustratedN00b/deceptive-data-companies/master/deceptive-data-companies.txt",
+    "format": "domains"
+  }
+}
