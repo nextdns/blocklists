@@ -1,0 +1,9 @@
+{
+  "name": "UT1 bundle adult",
+  "website": "https://github.com/Guernesey/utonextdns",
+  "description": "Combined UT1 categories: adult — Bundle split into 2 parts: ut1adult.json, ut1adult2.json. Ajoutez-les toutes. — Ajouter aussi ut1adult1.json",
+  "source": {
+    "url": "https://raw.githubusercontent.com/Guernesey/utonextdns/main/dist/UT1-adult-2.txt",
+    "format": "domains"
+  }
+}

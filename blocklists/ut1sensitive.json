@@ -1,0 +1,9 @@
+{
+  "name": "UT1 bundle sensitive",
+  "website": "https://github.com/Guernesey/utonextdns",
+  "description": "Combined UT1 categories: agressif, drogue, lingerie, sexual_education, dating, celebrity, mixed_adult",
+  "source": {
+    "url": "https://raw.githubusercontent.com/Guernesey/utonextdns/main/dist/UT1-sensitive.txt",
+    "format": "domains"
+  }
+}

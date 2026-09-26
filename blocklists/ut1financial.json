@@ -1,0 +1,9 @@
+{
+  "name": "UT1 bundle financial",
+  "website": "https://github.com/Guernesey/utonextdns",
+  "description": "Combined UT1 categories: financial, bitcoin, cryptojacking",
+  "source": {
+    "url": "https://raw.githubusercontent.com/Guernesey/utonextdns/main/dist/UT1-financial.txt",
+    "format": "domains"
+  }
+}
