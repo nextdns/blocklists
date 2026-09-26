@@ -1,8 +1,8 @@
 {
   "name": "HaGeZi - Multi ULTIMATE",
-  "website": "https://github.com/hagezi/dns-blocklists",
+  "website": "https://hagezi-mirror.dnsbunker.org",
   "description": "Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking (+Referral), Metrics, Telemetry, Phishing, Malware, Scam, Free Hoster, Fake, Coins and other Crap.",
   "source": {
-    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt"
+    "url": "https://hagezi-mirror.dnsbunker.org/wildcard/ultimate.txt"
   }
 }
