@@ -1,0 +1,9 @@
+{
+  "name": "YouTube Ad block list (by @kboghdady)",
+  "website": "https://github.com/kboghdady/youTube_ads_4_pi-hole",
+  "description": "Get rid of ADs while watching YouTube",
+  "source": {
+    "url": "https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt",
+    "format": "domains"
+  }
+}
