@@ -1,0 +1,8 @@
+{
+  "name": "AdGuard Japanese",
+  "website": "https://github.com/AdguardTeam/FiltersRegistry",
+  "source": {
+    "url": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt",
+    "format": "abp"
+  }
+}
