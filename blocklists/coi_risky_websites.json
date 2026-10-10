@@ -1,0 +1,9 @@
+{
+  "name": "COI risky websites (ČOI rizikové weby)",
+  "website": "https://raw.githubusercontent.com/oubrecht-com/coi-adblock-list",
+  "description": "Czech list the COI risky websites. List from public data from the Czech trade inspection (Česká obchodní inspekce). This list is created by OUBRECHT.com.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/oubrecht-com/coi-adblock-list/main/coi_adblock.txt",
+    "format": "abp"
+  }
+}
