@@ -1,0 +1,9 @@
+{
+  "name": "PersianBlocker",
+  "website": "https://github.com/MasterKia/PersianBlocker/",
+  "description": "An optimal and extensive list for blocking ads and trackers on Persian language sites.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/refs/heads/main/PersianBlockerHosts.txt",
+    "format": "domains"
+  }
+}
