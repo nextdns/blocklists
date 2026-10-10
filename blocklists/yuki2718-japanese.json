@@ -1,0 +1,8 @@
+{
+  "name": "Yuki2718 Japanese Filter Plus",
+  "website": "https://github.com/Yuki2718/adblock2",
+  "source": {
+    "url": "https://raw.githubusercontent.com/Yuki2718/adblock2/main/japanese/jpf-plus.txt",
+    "format": "abp"
+  }
+}
