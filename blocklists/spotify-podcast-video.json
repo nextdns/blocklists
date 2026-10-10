@@ -1,0 +1,9 @@
+{
+  "name": "Spotify Podcast Video",
+  "website": "https://gist.github.com/jrschumacher/27d42e9ef6fd0cda4e13d7917d7f1975",
+  "description": "Spotify Podcasts are filled with non-podcast videos (i.e. youtube, tiktok, etc) and there is no way to disable for kids",
+  "source": {
+    "url": "https://gist.githubusercontent.com/jrschumacher/27d42e9ef6fd0cda4e13d7917d7f1975/raw/5229b433a311f3b103eae545243731f179b00a79/Spotify%2520Podcast%2520Video%2520Domains",
+    "format": "host"
+  }
+}
