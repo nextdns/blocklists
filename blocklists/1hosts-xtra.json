@@ -1,7 +1,7 @@
 {
   "name": "1Hosts (Xtra)",
   "website": "https://github.com/badmojr/1Hosts",
-  "description": "Safeguard your device(s) against pesky ads, trackers, and malware.",
+  "description": "Aggressive blocking of ads, trackers, and malware. May break legitimate websites or services.",
   "source": {
     "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.wildcards"
   }
