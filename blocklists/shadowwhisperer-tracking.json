@@ -1,7 +1,6 @@
 {
   "name": "ShadowWhisperer Tracking",
   "website": "https://github.com/ShadowWhisperer/BlockLists",
-  "description": "Blocks analytics, diagnostics, metrics, location tracking, and public IP detection services.",
   "source": {
     "url": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking"
   }

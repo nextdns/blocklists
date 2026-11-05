@@ -1,7 +1,6 @@
 {
   "name": "hufilter",
   "website": "https://github.com/hufilter/hufilter",
-  "description": "Block hungarian ads.",
   "source": {
     "url": "https://raw.githubusercontent.com/hufilter/hufilter/gh-pages/hufilter-dns.txt"
   }

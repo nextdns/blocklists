@@ -1,7 +1,6 @@
 {
   "name": "Latvian List",
   "website": "https://github.com/Latvian-List/adblock-latvian",
-  "description": "Latvian List is an affiliated filter list written by anonymous74100 that specifically removes adverts on Latvian language websites.",
   "source": {
     "url": "https://raw.githubusercontent.com/Latvian-List/adblock-latvian/master/lists/latvian-list.txt",
     "format": "abp"

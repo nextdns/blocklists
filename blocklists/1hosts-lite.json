@@ -1,7 +1,6 @@
 {
   "name": "1Hosts (Lite)",
   "website": "https://github.com/badmojr/1Hosts",
-  "description": "Balanced blocking of ads, trackers, and malware, designed to minimize website breakage.",
   "source": {
     "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards"
   }
