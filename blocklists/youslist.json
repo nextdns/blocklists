@@ -2,7 +2,7 @@
   "name": "YousList",
   "website": "https://github.com/yous/YousList",
   "source": {
-    "url": "https://raw.githubusercontent.com/yous/YousList/master/youslist.txt",
-    "format": "abp"
+    "url": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
+    "format": "hosts"
   }
 }
