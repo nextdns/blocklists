@@ -1,0 +1,8 @@
+{
+  "name": "217heidai (Full)",
+  "website": "https://github.com/217heidai/adblockfilters",
+  "description": "Blocks ads and trackers using a merged list of global and Chinese filters.",
+  "source": {
+    "url": "https://github.com/217heidai/adblockfilters/releases/download/rule/adblockdomain.txt"
+  }
+}
