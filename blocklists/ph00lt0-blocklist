@@ -1,0 +1,9 @@
+{
+  "name": "ph00lt0 - Blocklist",
+  "website": "https://github.com/ph00lt0/blocklist",
+  "description": "This blocklist aims to block a variety of unwanted categories, including advertising and tracking tools like ads, stats and analytics, consent/cookie management platforms, debugging trackers; data collection and privacy risks posed by data brokers and data collecting companies such as surveys, as well as domains used in email spam activity; security threats such as malware, remote desktop software, phishing attempts, and spyware; scams and fraud, including quackery and lottery and gambling companies;",
+  "source": {
+    "url": "https://raw.githubusercontent.com/ph00lt0/blocklist/refs/heads/master/hosts-blocklist.txt",
+    "format": "hosts"
+  }
+}
