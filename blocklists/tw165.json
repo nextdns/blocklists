@@ -1,0 +1,8 @@
+{
+  "name": "TW165 Taiwan Anti-Scam",
+  "website": "https://github.com/FutaGuard/LowTechFilter",
+  "description": "A Taiwan anti-scam DNS blocklist based on the 165 Anti-Fraud service, published by LowTechFilter.",
+  "source": {
+    "url": "https://filter.futa.gg/TW165_domains.txt"
+  }
+}

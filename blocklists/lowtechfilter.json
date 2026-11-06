@@ -1,0 +1,8 @@
+{
+  "name": "LowTechFilter",
+  "website": "https://github.com/FutaGuard/LowTechFilter",
+  "description": "A Taiwan-focused DNS blocklist for advertising, tracking, phishing, and malicious domains.",
+  "source": {
+    "url": "https://filter.futa.gg/hosts_domains.txt"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "TWNIC RPZ",
+  "website": "https://github.com/FutaGuard/LowTechFilter",
+  "description": "A DNS Response Policy Zone blocklist from TWNIC, published by LowTechFilter.",
+  "source": {
+    "url": "https://filter.futa.gg/TWNIC-RPZ_domains.txt"
+  }
+}

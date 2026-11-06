@@ -1,0 +1,8 @@
+{
+  "name": "NoFarm",
+  "website": "https://github.com/FutaGuard/LowTechFilter",
+  "description": "A DNS blocklist for content-farm domains, published by LowTechFilter.",
+  "source": {
+    "url": "https://filter.futa.gg/nofarm_domains.txt"
+  }
+}
