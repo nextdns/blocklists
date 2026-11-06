@@ -4,5 +4,8 @@
   "source": {
     "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
     "format": "abp"
-  }
+  },
+  "exclusions": [
+    "*.app.adjust.com"
+  ]
 }
