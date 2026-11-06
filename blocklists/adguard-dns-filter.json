@@ -6,6 +6,30 @@
     "format": "abp"
   },
   "exclusions": [
-    "*.app.adjust.com"
+    "*.afi-b.com",
+    "*.app.adjust.com",
+    "*.app.appsflyer.com",
+    "*.awin1.com",
+    "*.belgium.wolterskluwer.com",
+    "*.data.digital.costco.ca",
+    "*.data.digital.costco.com",
+    "*.data.email.premierleague.com",
+    "*.data.notify.macys.com",
+    "*.data.orders.costco.ca",
+    "*.data.orders.costco.com",
+    "*.data.promo.timhortons.ca",
+    "*.hb.afl.rakuten.co.jp",
+    "*.logentries.com",
+    "*.marketing.net.idealo-partner.com",
+    "*.om-ssl.consorsbank.de",
+    "*.omniture.walmart.com",
+    "*.omsc.kpn.com",
+    "*.proto2ad.durasite.net",
+    "*.sax.sina.com.cn",
+    "*.sedge.nfl.com",
+    "*.swasc.homedepot.com",
+    "*.tms.capitalone.com",
+    "*.www.datadoghq-browser-agent.com",
+    "*.www.statcounter.com"
   ]
 }
