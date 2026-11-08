@@ -3,14 +3,6 @@
     {
       "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
       "format": "hosts"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
-      "format": "hosts"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
-      "format": "hosts"
     }
   ],
   "sanitizers": [
