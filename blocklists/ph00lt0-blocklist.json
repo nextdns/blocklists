@@ -1,0 +1,8 @@
+{
+  "name": "ph00lt0 Blocklist",
+  "website": "https://github.com/ph00lt0/blocklist",
+  "source": {
+    "url": "https://raw.githubusercontent.com/ph00lt0/blocklist/master/blocklist.txt",
+    "format": "abp"
+  }
+}
