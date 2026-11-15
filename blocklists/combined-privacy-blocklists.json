@@ -1,0 +1,8 @@
+{
+  "name": "Combined Privacy Block Lists",
+  "website": "https://github.com/bongochong/CombinedPrivacyBlockLists",
+  "source": {
+    "url": "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts",
+    "format": "hosts"
+  }
+}

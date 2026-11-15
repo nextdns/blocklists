@@ -1,0 +1,8 @@
+{
+  "name": "NEO DEV HOST",
+  "website": "https://github.com/neodevpro/neodevhost",
+  "source": {
+    "url": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/host",
+    "format": "hosts"
+  }
+}

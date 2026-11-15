@@ -1,0 +1,8 @@
+{
+  "name": "Global Anti-Scam Org",
+  "website": "https://github.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist",
+  "source": {
+    "url": "https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls-UBO.txt",
+    "format": "abp"
+  }
+}

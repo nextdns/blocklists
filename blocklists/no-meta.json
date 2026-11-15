@@ -1,0 +1,7 @@
+{
+  "name": "No Meta",
+  "website": "https://github.com/Bundy01/meta-blocklists",
+  "source": {
+    "url": "https://raw.githubusercontent.com/Bundy01/meta-blocklists/main/manual-domains"
+  }
+}

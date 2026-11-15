@@ -1,0 +1,8 @@
+{
+  "name": "Frogeye First-Party Trackers",
+  "website": "https://hostfiles.frogeye.fr/",
+  "source": {
+    "url": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt",
+    "format": "hosts"
+  }
+}
