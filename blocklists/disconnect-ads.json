@@ -1,7 +1,7 @@
 {
   "name": "Disconnect (Ads)",
-  "website": "https://disconnect.me",
+  "website": "https://github.com/disconnectme/disconnect-tracking-protection",
   "source": {
-    "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"
+    "url": "https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Advertising.txt"
   }
 }
