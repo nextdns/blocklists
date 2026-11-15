@@ -1,8 +1,0 @@
-{
-  "name": "bkrucarci turk-adlist",
-  "website": "https://github.com/bkrucarci/turk-adlist",
-  "source": {
-    "url": "https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts",
-    "format": "hosts"
-  }
-}
