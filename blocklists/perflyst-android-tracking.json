@@ -1,7 +1,0 @@
-{
-  "name": "Perflyst's Android Tracking Blocklist",
-  "website": "https://github.com/Perflyst/PiHoleBlocklist",
-  "source": {
-    "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt"
-  }
-}

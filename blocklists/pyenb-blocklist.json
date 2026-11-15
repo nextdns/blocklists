@@ -1,7 +1,0 @@
-{
-  "name": "Pyenb Pi-hole Blocklist",
-  "website": "https://github.com/Pyenb/Pi-hole-blocklist",
-  "source": {
-    "url": "https://raw.githubusercontent.com/Pyenb/Pi-hole-blocklist/main/blocklist.txt"
-  }
-}
