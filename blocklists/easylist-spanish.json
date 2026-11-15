@@ -1,0 +1,8 @@
+{
+  "name": "EasyList Spanish",
+  "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
+  "source": {
+    "url": "https://easylist-downloads.adblockplus.org/easylistspanish.txt",
+    "format": "abp"
+  }
+}
