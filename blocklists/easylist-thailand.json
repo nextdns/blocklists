@@ -1,0 +1,8 @@
+{
+  "name": "EasyList Thailand",
+  "website": "https://github.com/easylist-thailand/easylist-thailand",
+  "source": {
+    "url": "https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt",
+    "format": "abp"
+  }
+}

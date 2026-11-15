@@ -1,0 +1,8 @@
+{
+  "name": "AdBlockID",
+  "website": "https://github.com/realodix/AdBlockID",
+  "source": {
+    "url": "https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt",
+    "format": "abp"
+  }
+}
