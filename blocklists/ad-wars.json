@@ -1,8 +1,0 @@
-{
-  "name": "ad-wars",
-  "website": "https://github.com/jdlingyu/ad-wars",
-  "source": {
-    "url": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
-    "format": "hosts"
-  }
-}
