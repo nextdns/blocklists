@@ -2,7 +2,7 @@
   "name": "YousList",
   "website": "https://github.com/yous/YousList",
   "source": {
-    "url": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
+    "url": "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_15.txt",
     "format": "hosts"
   }
 }
