@@ -1,6 +1,6 @@
 {
   "name": "AdGuard Mobile Ads filter",
-  "website": "https://kb.adguard.com/general/adguard-ad-filters#mobile-ads-filter",
+  "website": "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
   "source": {
     "url": "https://filters.adtidy.org/extension/chromium/filters/11.txt",
     "format": "abp"
