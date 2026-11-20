@@ -1,0 +1,8 @@
+{
+  "name": "AdGuard French filter",
+  "website": "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
+  "source": {
+    "url": "https://filters.adtidy.org/extension/chromium/filters/16.txt",
+    "format": "abp"
+  }
+}
