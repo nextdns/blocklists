@@ -1,6 +1,6 @@
 {
   "name": "AdGuard Russian filter",
-  "website": "https://kb.adguard.com/general/adguard-ad-filters#russian-filter",
+  "website": "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
   "source": {
     "url": "https://filters.adtidy.org/extension/chromium/filters/1.txt",
     "format": "abp"
