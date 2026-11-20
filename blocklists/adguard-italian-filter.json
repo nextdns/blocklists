@@ -1,0 +1,8 @@
+{
+  "name": "AdGuard Italian filter",
+  "website": "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
+  "source": {
+    "url": "https://filters.adtidy.org/extension/chromium/filters/26.txt",
+    "format": "abp"
+  }
+}
