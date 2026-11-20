@@ -1,0 +1,8 @@
+{
+  "name": "Dandelion Sprout's Serbo-Croatian List",
+  "website": "https://github.com/DandelionSprout/adfilt",
+  "source": {
+    "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/SerboCroatianList.txt",
+    "format": "abp"
+  }
+}

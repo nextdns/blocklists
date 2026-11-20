@@ -1,0 +1,8 @@
+{
+  "name": "Dandelion Sprout's Nordic Filters",
+  "website": "https://github.com/DandelionSprout/adfilt",
+  "source": {
+    "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicHosts.txt",
+    "format": "hosts"
+  }
+}

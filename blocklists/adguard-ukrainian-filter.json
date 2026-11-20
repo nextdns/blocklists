@@ -1,0 +1,8 @@
+{
+  "name": "AdGuard Ukrainian filter",
+  "website": "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
+  "source": {
+    "url": "https://filters.adtidy.org/extension/chromium/filters/23.txt",
+    "format": "abp"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "AdGuard Spanish/Portuguese filter",
+  "website": "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
+  "source": {
+    "url": "https://filters.adtidy.org/extension/chromium/filters/9.txt",
+    "format": "abp"
+  }
+}
