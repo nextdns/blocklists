@@ -1,0 +1,8 @@
+{
+  "name": "AdGuard Turkish filter",
+  "website": "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
+  "source": {
+    "url": "https://filters.adtidy.org/extension/chromium/filters/13.txt",
+    "format": "abp"
+  }
+}
